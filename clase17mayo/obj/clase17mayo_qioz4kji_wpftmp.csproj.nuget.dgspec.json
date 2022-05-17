@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jaime\\source\\repos\\byjamesmars\\clase17mayo\\clase17mayo\\clase17mayo.csproj": {}
+    "C:\\Users\\jaime\\Source\\Repos\\byjamesmars\\clase17mayo\\clase17mayo\\clase17mayo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jaime\\source\\repos\\byjamesmars\\clase17mayo\\clase17mayo\\clase17mayo.csproj": {
+    "C:\\Users\\jaime\\Source\\Repos\\byjamesmars\\clase17mayo\\clase17mayo\\clase17mayo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jaime\\source\\repos\\byjamesmars\\clase17mayo\\clase17mayo\\clase17mayo.csproj",
+        "projectUniqueName": "C:\\Users\\jaime\\Source\\Repos\\byjamesmars\\clase17mayo\\clase17mayo\\clase17mayo.csproj",
         "projectName": "clase17mayo",
-        "projectPath": "C:\\Users\\jaime\\source\\repos\\byjamesmars\\clase17mayo\\clase17mayo\\clase17mayo.csproj",
+        "projectPath": "C:\\Users\\jaime\\Source\\Repos\\byjamesmars\\clase17mayo\\clase17mayo\\clase17mayo.csproj",
         "packagesPath": "C:\\Users\\jaime\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jaime\\source\\repos\\byjamesmars\\clase17mayo\\clase17mayo\\obj\\",
+        "outputPath": "C:\\Users\\jaime\\Source\\Repos\\byjamesmars\\clase17mayo\\clase17mayo\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\jaime\\AppData\\Roaming\\NuGet\\NuGet.Config",

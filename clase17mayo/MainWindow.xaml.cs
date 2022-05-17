@@ -24,5 +24,10 @@ namespace clase17mayo
         {
             InitializeComponent();
         }
+
+        private void bttn1_Click(object sender, RoutedEventArgs e)
+        {
+            txtBlock1.Text = "Hola" + txtBox1.Text;
+        }
     }
 }

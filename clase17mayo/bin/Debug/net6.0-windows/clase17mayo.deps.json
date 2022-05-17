@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "clase17mayo/1.0.0": {
+        "runtime": {
+          "clase17mayo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "clase17mayo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

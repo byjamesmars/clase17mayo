@@ -8,8 +8,8 @@
         Title="MainWindow" Height="450" Width="500
         ">
     <Grid x:Name="bttn_">
-        <TextBox x:Name="txtBox1" HorizontalAlignment="Center" Margin="0,94,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="294" Height="32"/>
-        <Button x:Name="bttn1" Content="Enviar Cambios" HorizontalAlignment="Left" Margin="210,217,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="txtBox1" HorizontalAlignment="Center" Margin="0,94,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="294" Height="32" />
+        <Button x:Name="bttn1" Content="Enviar Cambios" HorizontalAlignment="Left" Margin="210,217,0,0" VerticalAlignment="Top" Click="bttn1_Click"/>
         <TextBlock x:Name="txtBlock1" HorizontalAlignment="Left" Margin="188,357,0,0" TextWrapping="Wrap" Text="Su Texto es: " VerticalAlignment="Top"/>
 
     </Grid>
