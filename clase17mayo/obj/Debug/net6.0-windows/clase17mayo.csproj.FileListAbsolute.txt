@@ -19,3 +19,5 @@ C:\Users\jaime\source\repos\byjamesmars\clase17mayo\clase17mayo\obj\Debug\net6.0
 C:\Users\jaime\source\repos\byjamesmars\clase17mayo\clase17mayo\obj\Debug\net6.0-windows\clase17mayo.pdb
 C:\Users\jaime\source\repos\byjamesmars\clase17mayo\clase17mayo\obj\Debug\net6.0-windows\clase17mayo.genruntimeconfig.cache
 C:\Users\jaime\source\repos\byjamesmars\clase17mayo\clase17mayo\obj\Debug\net6.0-windows\ref\clase17mayo.dll
+C:\Users\jaime\source\repos\byjamesmars\clase17mayo\clase17mayo\obj\Debug\net6.0-windows\Window1.g.cs
+C:\Users\jaime\source\repos\byjamesmars\clase17mayo\clase17mayo\obj\Debug\net6.0-windows\Window1.baml
